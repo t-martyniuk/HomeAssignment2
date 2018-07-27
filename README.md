@@ -3,7 +3,7 @@ Second home assignment for Advanced Programming course at the Master's Program i
 
 ## Task 1 - MailSender
 ```never_use_switch``` directory
-Generate and send Mail based on the Client information.
+* Generate and send Mail based on the Client information.
 
 
 ## Task 2 - Enum Labs
@@ -28,5 +28,5 @@ Write Service which receives HTTP code and handles it appropriately.
 ## Task 3 - Refactor ObjectFactory class
 ```mySpring``` directory
 
-Implement the iRobot that speaks and cleans the room.
+* Implement the iRobot that speaks and cleans the room.
 
