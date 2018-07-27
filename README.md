@@ -1,5 +1,5 @@
 # HomeAssignment2
-Second home assignment for Advanced Programming course.
+Second home assignment for Advanced Programming course at the Master's Program in Data Science at UCU.
 
 ## Task 1 - MailSender
 ```never_use_switch``` directory
